@@ -1,0 +1,63 @@
+React js
+Postman API
+Node js
+Tailwind css
+Leaflet.js
+Chart.js
+CSS
+Bootstrap
+Express
+HTML
+Javascript
+MySQL
+Linux
+C
+C++
+MS C++
+Misc
+Qt Creator
+QML
+Visio
+Atmel
+Testing
+Git
+Git Bash
+Red Hat Enterprise Linux
+Doxygen
+CUDA
+Image Processing
+OpenCV
+MATLAB
+SQLite
+Visual Studio
+Databases
+Vitis
+Petalinux
+API
+Excel Word PowerPoint
+Python
+PHP
+DBMS
+Centos
+Data Structures
+Software Estimation
+Risk Assessment
+Debugging
+TCP
+I2C
+UART
+Cloud
+Kubernetes
+Networking
+VLAN
+CCNA
+Switching
+Routing
+Device Network Configuration
+
+
+
+
+
+
+
