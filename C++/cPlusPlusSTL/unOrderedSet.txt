@@ -1,0 +1,8 @@
+//unique but not sorted
+//can be in any order
+
+//all operations are similar to set
+
+
+//lower_bound and upper_bound function does not work
+//does not stores in any order
